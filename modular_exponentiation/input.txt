@@ -1,0 +1,11 @@
+# Modular Exponentiation Input Configuration
+# Format: key: value
+
+# Base for modular exponentiation
+base: 7
+
+# Modulus N
+modulus: 15
+
+# Number of qubits for exponent register (must be < 100)
+qubits: 4
